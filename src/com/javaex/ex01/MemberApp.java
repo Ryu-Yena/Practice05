@@ -18,7 +18,7 @@ public class MemberApp {
 
 		   m3.setId("lhr");
 		   m3.setName("이효리");
-		   m3.setPoint(40000);
+		   m3.setPoint(400000);
 
 		   m1.showInfo();
 		   m2.showInfo();
